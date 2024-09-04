@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(196, 181, 135);
+}
+h1{
+    color: rgb(46, 27, 9);
+    font-size: 39px;
+    font-family: Times 'Times New Roman';
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    text-decoration:overline
+}
+
+p{
+    color:rgb(39, 19, 5);
+    font-size: 22px;
+    font-family:Cambria;
+    text-align: center;
+    line-height: 25px;
+    letter-spacing: 4px;
+    word-spacing: 1px;
+}
+
+footer{
+    color: rgb(43, 28, 8);
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(170, 150, 120);
+    text-align: center;
+}
